@@ -25,7 +25,7 @@ I'm a software developer student. I graduated from <a href="https://www.unicesum
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" width="150" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" width="150" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="45" width="100" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>
-<code><a href="https://www.jenkins.com/" target="_blank"><img height="50" width="150" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+<code><a href="https://www.jenkins.io/" target="_blank"><img height="50" width="150" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 </div>
 
 <br><br>
